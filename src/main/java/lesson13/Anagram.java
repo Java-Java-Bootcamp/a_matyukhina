@@ -1,3 +1,5 @@
+package lesson13;
+
 public class Anagram {
     public boolean check(String first, String second) {
         char[] left = first.toLowerCase().toCharArray();
